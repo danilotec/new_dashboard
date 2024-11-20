@@ -3,11 +3,84 @@
     "unidade": "funesa",
     "equipamento": "caneta",
     "numero_serie": "879451",
-    "detalhes": "travada",
+    "detalhes": "Rotor travado",
+    "tipo": [
+      "Preventiva"
+    ],
     "tecnicos": [
       "Cesar"
     ],
     "data": 16,
+    "mes": 11
+  },
+  {
+    "unidade": "ceo sao cristovao",
+    "equipamento": "autoclave",
+    "numero_serie": "1245bqd",
+    "detalhes": "N\u00e3o liga",
+    "tipo": [
+      "Preventiva"
+    ],
+    "tecnicos": [
+      "Fabricio"
+    ],
+    "data": 14,
+    "mes": 11
+  },
+  {
+    "unidade": "funesa",
+    "equipamento": "Micro motor",
+    "numero_serie": "165349",
+    "detalhes": "",
+    "tipo": [
+      "Corretiva"
+    ],
+    "tecnicos": [
+      "Thiago"
+    ],
+    "data": 17,
+    "mes": 11
+  },
+  {
+    "unidade": "funesa",
+    "equipamento": "Micro motor",
+    "numero_serie": "165349",
+    "detalhes": "Travado, e amassado ",
+    "tipo": [
+      "Corretiva"
+    ],
+    "tecnicos": [
+      "Thiago"
+    ],
+    "data": 17,
+    "mes": 11
+  },
+  {
+    "unidade": "funesa laranjeiras",
+    "equipamento": "micro motor",
+    "numero_serie": "138468djfs",
+    "detalhes": "travado",
+    "tipo": [
+      "Corretiva"
+    ],
+    "tecnicos": [
+      "Thiago"
+    ],
+    "data": 18,
+    "mes": 11
+  },
+  {
+    "unidade": "funesa laranjeiras",
+    "equipamento": "caneta",
+    "numero_serie": "879451",
+    "detalhes": "",
+    "tipo": [
+      "Preventiva"
+    ],
+    "tecnicos": [
+      "Fabricio"
+    ],
+    "data": 18,
     "mes": 11
   }
 ]
